@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
+    "sass": "^1.84.0",
     "tsx": "^4.19.2",
     "typescript": "~5.7.2",
     "vite": "^6.1.0"
